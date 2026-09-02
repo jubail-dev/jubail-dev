@@ -6,7 +6,7 @@
 
 <p align="center">
   <img 
-    src="https://i.postimg.cc/43h4MXkk/Gemini-Generated-Image-2yo7oj2yo7oj2yo7.jpg"
+    src="https://i.postimg.cc/NMcykK9F/Chat-GPT-Image-Sep-2-2026-11-03-29-PM.png"
     width="100%"
     alt="MD Jubail Miah GitHub Banner"
   />
