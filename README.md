@@ -6,7 +6,7 @@
 
 <p align="center">
   <img 
-    src="https://scontent.fdac140-1.fna.fbcdn.net/v/t39.30808-6/791975495_1910648803229721_6566029641392836361_n.png?stp=dst-png&cstp=mx1440x720&ctp=s1440x720&_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEBeUBbw47MNINrFyAT8V3vQycS4nmmiaJDJxLieaaJogdUjkkXUbcm3pidfw6Yw-i05cK9pp4Agpf4hVntpjSt&_nc_ohc=FcdPiiZ_0OMQ7kNvwGO2pJI&_nc_oc=AdoAnjphxkQDH7iMHNb7Wa63zzoaO8eL0lwE0C6nfmNlQbSMXMMSTSh-5_9FwbvtLA4&_nc_zt=23&_nc_ht=scontent.fdac140-1.fna&_nc_gid=z7dkLnVWaLKTDLQxRc293g&_nc_ss=7b2a8&oh=00_AQI46PLhqoy6AhnwDA0WCHUQ5cfWW0z42e5J9YPTjEHpVA&oe=6A9E1D43"
+    src="https://i.postimg.cc/43h4MXkk/Gemini-Generated-Image-2yo7oj2yo7oj2yo7.jpg"
     width="100%"
     alt="MD Jubail Miah GitHub Banner"
   />
