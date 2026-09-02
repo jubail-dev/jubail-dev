@@ -140,18 +140,17 @@ I'm passionate about learning new technologies, solving programming problems, an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=jubail-dev&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=1800"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jubail-dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
     height="180"
     alt="GitHub Stats"
   />
 
-<img 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubail-dev&layout=compact&hide_border=true&cache_seconds=1800"
- height="180"
- alt="Top Languages"
-/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubail-dev&layout=compact&langs_count=8&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 ---
