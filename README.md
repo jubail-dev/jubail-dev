@@ -6,7 +6,7 @@
 
 <p align="center">
   <img 
-    src="https://postimg.cc/Z94hvt5V"
+    src="https://i.postimg.cc/Z94hvt5V/Gemini-Generated-Image-2yo7oj2yo7oj2yo7.jpg"
     width="100%"
     alt="MD Jubail Miah GitHub Banner"
   />
