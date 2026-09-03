@@ -1,3 +1,4 @@
+
 <!-- ====================================================== -->
 
 <!--                         BANNER                         -->
@@ -136,21 +137,24 @@ I'm passionate about learning new technologies, solving programming problems, an
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jubail-dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
-    height="180"
-    alt="GitHub Stats"
-  />
+  <a href="https://github.com/jubail-dev">
+    <img
+      height="200"
+      src="https://github-stats-extended.vercel.app/api?username=jubail-dev&show_icons=true&hide_border=true"
+      alt="MD Jubail Miah GitHub Stats"
+    />
+  </a>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubail-dev&layout=compact&langs_count=8&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
+  <a href="https://github.com/jubail-dev">
+    <img
+      height="200"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=jubail-dev&layout=compact&langs_count=8&hide_border=true"
+      alt="MD Jubail Miah Top Languages"
+    />
+  </a>
 </p>
 
 ---
