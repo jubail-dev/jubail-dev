@@ -7,7 +7,7 @@
 
 <p align="center">
   <img 
-    src="https://i.postimg.cc/NMcykK9F/Chat-GPT-Image-Sep-2-2026-11-03-29-PM.png"
+    src="https://i.postimg.cc/NMcykK9F/Chat-GPT-Image-Sep-2-2026-11-03-29-PM.png](https://i.postimg.cc/6Q7T4h6m/Md-Jubail-Frontend-Developer-Banner.png"
     width="100%"
     alt="MD Jubail Miah GitHub Banner"
   />
