@@ -7,7 +7,7 @@
 
 <p align="center">
   <img 
-     src="https://i.postimg.cc/6Q7T4h6m/Md-Jubail-Frontend-Developer-Banner.png"
+     src="https://i.postimg.cc/BZjfSXnr/Gemini-Generated-Image-2zzdpf2zzdpf2zzd.jpg"
     width="100%"
     alt="MD Jubail Miah GitHub Banner"
   />
